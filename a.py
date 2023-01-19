@@ -12,6 +12,10 @@ class Queue:
         del self.__l[0]
         self.__l_size -= 1
     
+<<<<<<< HEAD
 print(isinstance(int, str))
 print("new line"
         )
+=======
+#print(isinstance(int, str))
+>>>>>>> parent of 9892b83 (added new print line)
