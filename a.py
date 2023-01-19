@@ -12,4 +12,4 @@ class Queue:
         del self.__l[0]
         self.__l_size -= 1
     
-print(isinstance(int, str))
+#print(isinstance(int, str))
