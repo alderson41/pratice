@@ -13,4 +13,5 @@ class Queue:
         self.__l_size -= 1
     
 print(isinstance(int, str))
-print("new line")
+print("new line"
+        )
