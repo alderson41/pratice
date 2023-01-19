@@ -13,9 +13,13 @@ class Queue:
         self.__l_size -= 1
     
 <<<<<<< HEAD
+<<<<<<< HEAD
 print(isinstance(int, str))
 print("new line"
         )
+=======
+#print(isinstance(int, str))
+>>>>>>> parent of 9892b83 (added new print line)
 =======
 #print(isinstance(int, str))
 >>>>>>> parent of 9892b83 (added new print line)
