@@ -1,0 +1,6 @@
+{
+	"secret_key": "secret",
+	"users": [
+		"user": "logan",
+	]
+}
